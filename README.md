@@ -8,7 +8,7 @@ My name is Le Huynh phuc. I am an student in University of Science (VNU-HCMUS). 
 
 # My Portfolio:
 
-https://PantheraxLHP.github.io/portfolio
+https://pantheraxlhp.github.io/
 
 # Technical Used:
 
