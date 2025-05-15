@@ -4,11 +4,11 @@ My name is Le Huynh phuc. I am an student in University of Science (VNU-HCMUS). 
 
 # How to reach me:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pelnuchy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huynhphucle)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PantheraxLHP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@huynhphucle)
 
 # My Portfolio:
 
-https://pelnuchy.github.io/portfolio
+https://PantheraxLHP.github.io/portfolio
 
 # Technical Used:
 
@@ -16,6 +16,6 @@ https://pelnuchy.github.io/portfolio
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=pelnuchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pelnuchy&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pelnuchy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PantheraxLHP&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PantheraxLHP&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PantheraxLHP&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
